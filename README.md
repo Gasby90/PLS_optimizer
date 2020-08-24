@@ -9,4 +9,4 @@ X_cal= dataset X (matrix of predictors)
 Y_cal= dataset Y (matrix of dependent variables)
 
 OUTPUT
-results= cell: 'Pre-processing comb., LV, Bias and RMSEC
+results= cell: 'Pre-processing comb., LV, Bias and RMSEC.
