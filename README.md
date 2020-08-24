@@ -10,3 +10,5 @@ Y_cal= dataset Y (matrix of dependent variables)
 
 OUTPUT
 results= cell: 'Pre-processing comb., LV, Bias and RMSEC.
+
+[![DOI](https://zenodo.org/badge/289948988.svg)](https://zenodo.org/badge/latestdoi/289948988)
