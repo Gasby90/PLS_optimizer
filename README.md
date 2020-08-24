@@ -5,8 +5,8 @@ Regreession results are stored in a cell (i.e. 'Pre-processing comb., LV, Bias a
 The PLS_otimizer works only with PLS_toolbox (Ver. 8.2.1 or above) in MATLAB® (MATLAB R2019a or above). 
 
 INPUT
-X_cal= dataset X (matrix of predictors)
-Y_cal= dataset Y (matrix of dependent variables)
+X_cal= dataset X (matrix of predictors);
+Y_cal= dataset Y (matrix of dependent variables).
 
 OUTPUT
 results= cell: 'Pre-processing comb., LV, Bias and RMSEC.
